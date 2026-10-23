@@ -361,11 +361,8 @@ const products = [
         title: "REELSHORT PREMIUM (MOD APP)",
         description: "Premium streaming access for all devices.",
         devices: [
-            { name: "Android Phone", oldPrice: "RM10.00", newPrice: "RM5.00" },
-            { name: "Android Tablet", oldPrice: "RM15.00", newPrice: "RM7.00" },
-            { name: "Windows PC", oldPrice: "RM15.00", newPrice: "RM9.00" },
-            { name: "Android Projector", oldPrice: "RM20.00", newPrice: "RM11.00" },
-            { name: "Android TV/Box", oldPrice: "RM20.00", newPrice: "RM13.00" }
+            { name: "Android Phone", oldPrice: "RM10.00", newPrice: "RM4.00" },
+            { name: "Android Tablet", oldPrice: "RM15.00", newPrice: "RM6.00" },
         ],
         image: "images/reelshort.webp",
         borderColor: "border-red-500",
