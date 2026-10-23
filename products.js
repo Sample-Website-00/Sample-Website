@@ -362,7 +362,7 @@ const products = [
         description: "Premium streaming access for all devices.",
         devices: [
             { name: "Android Phone", oldPrice: "RM10.00", newPrice: "RM4.00" },
-            { name: "Android Tablet", oldPrice: "RM15.00", newPrice: "RM6.00" },
+            { name: "Android Tablet", oldPrice: "RM15.00", newPrice: "RM6.00" }
         ],
         image: "images/reelshort.webp",
         borderColor: "border-red-500",
